@@ -28,7 +28,7 @@ Users are strictly prohibited from creating, uploading, sharing, or transmitting
 We provide our users with a direct, friction-free way to report child safety violations immediately without leaving the application.
 
 * **How to Report In-App:** The user profile screen contains a link to a text screen where details of the offence may be submitted.  Tap "Report Abuse" link and select the category of the offence.
-* **Review Process:** Reports flagged under this category are give priority by the moderation team.
+* **Review Process:** Reports flagged under this category are given priority by the moderation team.
 
 ---
 
