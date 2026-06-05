@@ -41,7 +41,3 @@ When our moderation team obtains actual knowledge of confirmed CSAM/CSAE on our 
 3. **Regional Authorities:** For international users or instances outside US jurisdiction, verified cases are systematically forwarded to the appropriate regional or national law enforcement agencies (such as Europol, Interpol, or local police services).
 
 ---
-
-t still says "Insert App Name", they will reject it instantly.
-* **The URL must match:** The link you provide in the Google Play Console form must open this exact page. It cannot point to a generic homepage where a user has to search for the policy.
-* **Verify the App Name:** The app name in this text must match your app store listing text down to the exact capitalization and spacing.
